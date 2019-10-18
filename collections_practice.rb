@@ -33,3 +33,6 @@ end
 def find_a(array)
   array.select { |string| string[0] == "a"}
 end   
+
+def sum_array
+end   
